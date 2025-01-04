@@ -1,0 +1,47 @@
+#Create a List, tuple and Dictionary with 5 elements in it and how to access few elements based on the index. Try  with different examples 
+#LISTS
+fruits = ["apple", "banana", "cherry", "date", "berry"]
+
+print(fruits[0])  
+#output: apple
+
+print(fruits[2])   
+#output: cherry
+
+print(fruits[1:4])  
+#output: ["banana", "cherry", "date"]
+
+print(fruits[-1]) 
+#output: berry
+
+#TUPLE 
+colors = ("red", "blue", "green", "yellow", "purple")
+print(colors[1]) 
+#OUTPUT: blue
+print(colors[4]) 
+#OUTPUT: purple
+print(colors[0:3]) 
+#OUTPUT: ('red', 'blue', 'green')
+print(colors[-2])  
+#OUTPUT: yellow
+
+#DICTIONARY
+person = {
+    "name": "Akshitha",
+    "age": 19,
+    "city": "Hyd",
+    "profession": "Engineer",
+    "hobby": "painting"
+}
+print(person["name"])  
+#OUTPUT: Akshitha
+print(person["city"])  
+#OUTPUT: hyd
+print(person.get("hobby"))  
+#OUTPUT: painting
+
+
+
+
+
+
