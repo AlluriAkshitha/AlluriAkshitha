@@ -1,6 +1,6 @@
 ## Hi there
 Im currently learning python, java, C. 
-This contains some Machine Learning Programs!!
+My profile has some LeetCode solutions, Machine Learning programs, Hackerrank solutions,python programs!!
 
 <!--
 **AlluriAkshitha/AlluriAkshitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
